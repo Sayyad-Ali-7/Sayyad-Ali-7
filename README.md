@@ -3,16 +3,6 @@ A passionate Frontend-Developer || React.js Developer
 ## About Me
 Hi, I’m Sayyad Ali, a passionate Frontend Developer specializing in React.js. I love transforming creative ideas into responsive, user-friendly web applications. With a strong foundation in JavaScript, HTML, CSS, and modern frameworks, I focus on building scalable, high-performance interfaces that deliver exceptional user experiences.
 
-Email Me 👉 ✉️ **aliseyad611@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-
-- 🔭 **I’m currently working on:** Frontend Development
-- 🌱 **I’m currently learning:** React js
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Imran Sir
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https:www.linkedin.com/in/sayyad-ali-09a8632b0](https://www.linkedin.com/in/sayyad-ali-09a8632b0/)) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@gautammanak1)  [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/user:21267046) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/gautammanak02) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@gautammanakbtech) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/gautammanak1)
 
