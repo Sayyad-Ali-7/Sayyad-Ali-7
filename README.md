@@ -1,5 +1,5 @@
-# 💫 Hi 👋, I'm Imran Ali
-**A passionate Frontend-Developer || React.js Developer **
+# 💫 Hi 👋, I'm Sayyad  Ali
+A passionate Frontend-Developer || React.js Developer 
 
 Email Me 👉 ✉️ **aliseyad611@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
