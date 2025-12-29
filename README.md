@@ -1,5 +1,7 @@
 # 💫 Hi 👋, I'm Sayyad  Ali
 A passionate Frontend-Developer || React.js Developer 
+## About Me
+Hi, I’m Sayyad Ali, a passionate Frontend Developer specializing in React.js. I love transforming creative ideas into responsive, user-friendly web applications. With a strong foundation in JavaScript, HTML, CSS, and modern frameworks, I focus on building scalable, high-performance interfaces that deliver exceptional user experiences.
 
 Email Me 👉 ✉️ **aliseyad611@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
